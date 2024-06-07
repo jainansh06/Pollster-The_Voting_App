@@ -27,6 +27,9 @@ DEBUG = False
 
 ALLOWED_HOSTS = ['video-chat-app-5ni3.onrender.com','0.0.0.0']
 
+# settings.py
+
+DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 # Application definition
 
